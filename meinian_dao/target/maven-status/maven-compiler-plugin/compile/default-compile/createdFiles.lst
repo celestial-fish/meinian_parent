@@ -1,0 +1,10 @@
+com\lyl\dao\OrderSettingDao.class
+com\lyl\dao\PermissionDao.class
+com\lyl\dao\AddressDao.class
+com\lyl\dao\RoleDao.class
+com\lyl\dao\TravelGroupDao.class
+com\lyl\dao\SetmealDao.class
+com\lyl\dao\MemberDao.class
+com\lyl\dao\UserDao.class
+com\lyl\dao\OrderDao.class
+com\lyl\dao\TravelItemDao.class

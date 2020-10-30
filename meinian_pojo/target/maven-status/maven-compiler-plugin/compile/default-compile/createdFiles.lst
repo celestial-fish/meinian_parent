@@ -1,0 +1,14 @@
+com\lyl\pojo\TravelItem.class
+com\lyl\entity\Result.class
+com\lyl\pojo\Permission.class
+com\lyl\entity\PageResult.class
+com\lyl\pojo\Order.class
+com\lyl\pojo\Address.class
+com\lyl\pojo\Role.class
+com\lyl\pojo\Member.class
+com\lyl\pojo\OrderSetting.class
+com\lyl\pojo\User.class
+com\lyl\pojo\TravelGroup.class
+com\lyl\pojo\Setmeal.class
+com\lyl\entity\QueryPageBean.class
+com\lyl\pojo\Menu.class

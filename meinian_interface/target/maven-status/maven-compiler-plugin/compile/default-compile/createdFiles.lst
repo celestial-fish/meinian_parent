@@ -1,0 +1,9 @@
+com\lyl\service\OrderService.class
+com\lyl\service\SetmealService.class
+com\lyl\service\TravelItemService.class
+com\lyl\service\AddressService.class
+com\lyl\service\MemberService.class
+com\lyl\service\ReportService.class
+com\lyl\service\TravelGroupService.class
+com\lyl\service\OrdersettingService.class
+com\lyl\service\UserService.class
